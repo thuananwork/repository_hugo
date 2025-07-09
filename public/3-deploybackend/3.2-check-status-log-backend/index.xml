@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Checking Backend Status and Logs After Deployment on AWS System Manager</title>
+    <link>/3-deploybackend/3.2-check-status-log-backend/</link>
+    <description>Recent content in Checking Backend Status and Logs After Deployment on AWS System Manager</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="/3-deploybackend/3.2-check-status-log-backend/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
