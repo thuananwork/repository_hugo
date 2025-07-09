@@ -1,29 +1,29 @@
 # Hướng dẫn chạy Hugo cho dự án này
 
-## 1. Cài đặt Hugo (Khuyến nghị phiên bản v0.148.0)
+## 1. Cài đặt Hugo (Khuyến nghị phiên bản v0.147.0)
 
-- **Yêu cầu:** Sử dụng Hugo phiên bản **v0.148.0** để đảm bảo tương thích tốt nhất với dự án.
+- **Yêu cầu:** Sử dụng Hugo phiên bản **v0.147.0** để đảm bảo tương thích tốt nhất với dự án.
 
 ### Cài đặt trên Windows (bằng Chocolatey)
 ```sh
-choco install hugo-extended --version=0.148.0 -y
+choco install hugo-extended --version=0.147.0 -y
 ```
 
 ### Cài đặt trên MacOS (bằng Homebrew)
 ```sh
-brew install hugo@0.148.0
-brew link --force hugo@0.148.0
+brew install hugo@0.147.0
+brew link --force hugo@0.147.0
 ```
 
 ### Hoặc tải trực tiếp từ trang chủ
-- Truy cập: https://github.com/gohugoio/hugo/releases/tag/v0.148.0
+- Truy cập: https://github.com/gohugoio/hugo/releases/tag/v0.147.0
 - Tải về file phù hợp với hệ điều hành và giải nén, thêm vào PATH.
 
 ### Kiểm tra phiên bản
 ```sh
 hugo version
 ```
-Kết quả mong muốn: `hugo v0.148.0 ...`
+Kết quả mong muốn: `hugo v0.147.0 ...`
 
 ## 2. Cài đặt các phụ thuộc (nếu có)
 
