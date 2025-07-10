@@ -100,7 +100,7 @@ Thị trường thương mại điện tử tại Việt Nam và khu vực Đôn
 
 ### High-Level Architecture Diagram
 *(Sơ đồ kiến trúc hệ thống)*
-![Sơ đồ kiến trúc hệ thống](images/fcjfashionshop_drawio.png)
+![Sơ đồ kiến trúc hệ thống](static/images/fcjfashionshop_drawio.png)
 ### AWS Services Selection & Justification
 - **Amazon S3**: Lưu trữ nội dung tĩnh (HTML, CSS, JS, hình ảnh).
 - **CloudFront**: CDN toàn cầu giúp tăng tốc độ truy cập.
