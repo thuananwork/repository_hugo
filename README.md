@@ -10,7 +10,6 @@
 - **GitHub**: [thuan120710](https://github.com/thuan120710)  
 - **Link Workshop**: [https://thuananwork.github.io/](https://thuananwork.github.io/)
 
-Thông Tin Sinh Viên Thực Tập 2
 ### 🧑‍🎓 Thành viên 2
 - **Họ và tên**: Nguyễn Thuận An
 - **Trường**: Đại học Công Nghệ TP.HCM (HUTECH)  
